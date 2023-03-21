@@ -1,0 +1,4 @@
+../Core/Src/spi_lib.c:18:6:SPI_Init	40	static
+../Core/Src/spi_lib.c:49:9:SPI_Sensor_Read	32	static
+../Core/Src/spi_lib.c:79:6:SPI_Sensor_Write	24	static
+../Core/Src/spi_lib.c:100:6:SPI_Multi_Read	32	static
